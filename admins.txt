@@ -13,8 +13,8 @@
 ## Headcoders
 mothblocks = GameAdmin+HeadCoder
 lemoninthedark = HeadCoder
-ninjanomnom = HeadCoder
+mrmelbert = GameMaster+HeadCoder
 
 ## Headmins
 isratosh = HeadAdmin
-maxipat = HeadAdmin
+xzero314 = HeadAdmin
